@@ -2,6 +2,7 @@
 
 🌱 We specialize in: 
 ✔UI/UX: Adobe Photoshop || After Effects || Sketch || Figma || Xd || Illustrator || CorelDraw 
+
 ✔Website Development: CodeIgniter || Zend || CakePHP || JavaScript || Java || Python || NodeJS || React Native 
 ✔Mobile App Development: IOS || Android || Ionic || Kotlin || Swift || React Native 
 ✔Custom Software Development: CodeIgniter || Zend || CakePHP || JavaScript || Java || Python || NodeJS || React Native 
