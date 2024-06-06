@@ -1,4 +1,6 @@
-👋 Hi, Duple IT Solutions, based in India, is a leading App and Web Solutions development agency. Established in 2015, our team of experts blends technical expertise with innovation to empower startups and enterprises.
+👋 Hi, Duple IT Solutions, based in India, is a leading App and Web Solutions development agency. 
+
+Established in 2015, our team of experts blends technical expertise with innovation to empower startups and enterprises.
 
 🌱 We specialize in: 
 
